@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langgraph
+langgraph-checkpoint-mongodb
+pymongo
+google-search-results
+streamlit
+langchain-community
+langgraph-prebuilt
